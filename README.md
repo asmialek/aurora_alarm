@@ -11,5 +11,5 @@ To exit Aurora Alarm right click on system tray icon and choose the only option.
 ## Aurora Alarm on Windows autostart
 - Make a shortcut of  `aurora_alarm.exe`;
 - Press `Win + R`;
-- Type `shell:autostart` and press `OK`;
+- Type `shell:startup` and press `OK`;
 - Paste or move `aurora_alarm.exe` shortcut to this directory.
