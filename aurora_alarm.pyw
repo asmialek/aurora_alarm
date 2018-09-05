@@ -44,12 +44,12 @@ def aurora_lookup():
                            icon_path='aurora_alarm.ico',
                            threaded=True)
     else:
-        toaster.show_toast('Aurora Alarm',
-                           f'There is nothing to see here.\n'
-                           f'The Kp index is: {index}',
-                           duration=duration,
-                           icon_path='aurora_alarm.ico',
-                           threaded=True)
+        # toaster.show_toast('Aurora Alarm',
+        #                    f'There is nothing to see here.\n'
+        #                    f'The Kp index is: {index}',
+        #                    duration=duration,
+        #                    icon_path='aurora_alarm.ico',
+        #                    threaded=True)
         pass
 
 
